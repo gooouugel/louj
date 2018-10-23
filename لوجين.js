@@ -1,4 +1,4 @@
-﻿$("div#tlogins button.btn.btn-primary").click(function(){
+$("div#tlogins button.btn.btn-primary").click(function(){
 var myVar = setInterval(function(){ var usmsgw = $(".pmsgc").length;if(usmsgw > 0){
    $(`
     <div class="uzr fl corner borderg mm" style="border-radius:5px;margin-bottom:-2px;width:99.5%;padding:0px; background-color:white;">
@@ -29,7 +29,7 @@ $(`<img src=" https://d.top4top.net/p_982m6kmd1.gif" class="fr" style="width:100
 <a href="javascript:void(0);" Onclick="ShowHide5();"><img src=https://f.top4top.net/p_98288ro51.gif" height="25" width="85"></a>
 </div><div style="text-align:center;color: #fff; padding: 2px; background: #7B1B11; max-width: 290px; border-radius: 12px; text-align: center; margin-right: auto; margin-left: auto; font-size:25px;  display: none;" name="help" ID="help5">
 قريبا يمكنك تواصل مع ادارة شات <br>..<a href="mailto:....."></a>
-<br>او<br>BBM: ** <br>
+<br>او<br>BBM: **** <br>
 <a title="شات لوجين الشمري" href="/">دردشة لوجين الشمري</a>,<a title="شات عربي" href="/">شات عربي</a>,<a title="دردشه لوجين" href="/">شات لوجين</a></div>
 <center>
 <img src=https://e.top4top.net/p_9823fhl21.gif  WIDTH=250 HEIGHT=35><br><font size="3"></font>
@@ -44,7 +44,7 @@ $(".label-primary" ).css( "border-radius", "15px 15px 15px 15px");
 $('.nav-tabs>li>a').css('color','#7B1B11')
 $( "a.label.label-primary.fl > img.fl" ).replaceWith('<img src="https://c.top4top.net/p_9822vr981.png" class="fl" style="margin-Right: 2px; width: 30px;">');
 $("[data-target=#wall]").attr('title','الحائط فقط للإبداع')
-$(<img style="height:50px;width: 100%;margin-right: 3px;background-color: #595A5C;" src="https://f.top4top.net/p_984gb7xn1.gif" border="0">).insertBefore('div#d2bc');
+$(`<img style="height:50px;width: 100%;margin-right: 3px;background-color: #595A5C;" src="https://f.top4top.net/p_984gb7xn1.gif" border="0">`).insertBefore('div#d2bc');
 $('<img src="https://f.top4top.net/p_982qmy4r1.gif" style="width:90px;margin-top:-90px; " class="fr">').insertBefore('.loginstat');
 $("<br>").insertBefore('.checkbox');
 $(`<link href="https://fonts.googleapis.com/css?family=Changa" rel="stylesheet"><marquee direction="right" width="65%" direction="right" style="margin-bottom: -7px;font-family: 'Changa', sans-serif;    height: 20px;color: #ffffff;"> مرحبا بكم في شات لوجين الشمري .. نتشرف بتواجدكم .. نقدم لكم ( مسابقات ) - ( العاب ) - ( ترفيه ) ونتمنى لكم قضاء اجمل الاوقات معنا </marquee></font></b></td>
@@ -58,3 +58,9 @@ $(`<style> .fitimg.fl.u-pic {border-radius: 50px;}.emoi {
     width: 25px;
     max-width: 25px;
     height: auto;
+    max-height: 25px;
+}</style>`).insertBefore('body');
+
+</script>
+</body>
+</html>
