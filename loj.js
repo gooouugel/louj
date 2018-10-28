@@ -38,3 +38,5 @@ if(location.protocol!='https:'){location.protocol='https:';}
     }
 .checkbox {color: rgb(137, 137, 137);}
 </style>`).insertBefore('body');
+$('.break.light').css
+$('body').css({"background-image":"url(https://c.top4top.net/p_1031pyrxy1.gif)"});
