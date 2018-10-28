@@ -1,9 +1,11 @@
 $(`<center><div>
 	<div width="99.5%" style="background-image:url('https://e.top4top.net/p_103166nnu1.gif');color: #7003300;border-radius: 5px 5px 5px5px;border-bottom: 2px solid #70C4DE;border-top: 2px none solid#70C4DE;padding-bottom: 2px!important; width:1314px; height:24px" >
 	<font style="background-color: #fff;border-radius: 15px 15px 15px 15px;font-family: 'jazeera',FontAwesome;padding: 2px 8px 2px 10px;margin: 7px 10px 7px 10px;" color="#00527A" >مـــنورين شات لوجين </font></div></div><center>`).insertBefore('#d2');
-$(".label-primary").css("border-radius","31px 30px 30px 31px")
-$('.nav-tabs').addClass('fl').css('width','121%');
+$( "button.btn.btn-primary" ).css( "border-radius", "15px 15px 15px 15px" )
+$(".label-primary").css("border-radius","15px 15px 15px 15px")
 $('.nav-tabs').addClass('fl').css('width','100%');
+$( "a.label.label-primary.fl > img.fl" ).replaceWith('<img src="" class="fl" style="margin-right: 2px; width: 25px;">');
+setInterval(function(){$(".u-pic").css("border-radius","15px");$(".ustat").css("border-radius","5px").css("width","10px").css("height","10px")},1000);
 $(`<link rel="stylesheet" type="text/css" href="//www.fontstatic.com/f=jazeera-light,jazeera">
 <link rel="stylesheet" href="">
 <style>
