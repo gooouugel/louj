@@ -25,7 +25,7 @@ label.label.tc.border.btn.fl {border-radius: 41px 21px 41px 21px;}
 .label.tc.border.btn.fl, .label.tc.border.btn.fl {border: 1px solid #00527A;font-family: 'jazeera',FontAwesome;border-radius: 4px 4px 4px 4px;}
 label.fl.nosel.label.pnhead {font-family: 'jazeera',FontAwesome;width: 81%;text-align: -webkit-center;background-color: #00527A;color: white;border-radius:13px 13px 13px 13px;}
 .fr.borderg a {color: #00527A;font-size: 12px!important;}
-.fr.borderg {color: #00527A;font-size: 13px!important;border: 1px solid ##00527A;font-family: 'jazeera',FontAwesome;border-radius: 4px 4px 4px 4px;margin-top: 1px;}
+.fr.borderg {color: #00527A;font-size: 13px!important;border: 1px solid #00527A;font-family: 'jazeera',FontAwesome;border-radius: 4px 4px 4px 4px;margin-top: 1px;}
 label.label-primary {border-radius: px 31px 31px 31px;}
 button.btn.fr.btn-success.fa.fa-refresh {padding: 4px 5px;background-color:"url()"});background-image::"url()"});border: 1px solid transparent;margin-top: -3px;border-radius: 50px;as:51px;}
 if(location.protocol!='https:'){location.protocol='https:';}
@@ -34,7 +34,7 @@ if(location.protocol!='https:'){location.protocol='https:';}
     border-radius: 31px 31px 31px 31px;
     as: 31px;
     background-image: none;
-    border: 2px solid #0a1fa6;
+    border: 2px solid #00527A;
     }
 .checkbox {color: rgb(137, 137, 137);}
 </style>`).insertBefore('body');
