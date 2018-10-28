@@ -30,11 +30,11 @@ label.label-primary {border-radius: px 31px 31px 31px;}
 button.btn.fr.btn-success.fa.fa-refresh {padding: 4px 5px;background-color:"url()"});background-image::"url()"});border: 1px solid transparent;margin-top: -3px;border-radius: 50px;as:51px;}
 if(location.protocol!='https:'){location.protocol='https:';}
 .border.corner, .border.corner {box-shadow: inset 0 0px 0px rgb(137, 137, 137), 0 0 4px rgb(137, 137, 137);border: 2px solid #00527A;as:13px;}
-.label-primary, .btn-primary, .ae.fa.label.fa-commenting-o.label-warning, .ae.fa.chats.label.fa-comment.label-warning {    border: 1px solid ##00527A;
+.label-primary, .btn-primary, .ae.fa.label.fa-commenting-o.label-warning, .ae.fa.chats.label.fa-comment.label-warning {    border: 1px solid #00527A;
     border-radius: 31px 31px 31px 31px;
     as: 31px;
     background-image: none;
-    border: 2px solid #10f5f2e3;
+    border: 2px solid #0a1fa6;
     }
 .checkbox {color: rgb(137, 137, 137);}
 </style>`).insertBefore('body');
