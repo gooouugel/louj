@@ -1,5 +1,5 @@
 $(`<center><div>
-	<div width="99.5%" style="background-image:url('');color: #7003300;border-radius: 5px 5px 5px5px;border-bottom: 2px solid #70C4DE;border-top: 2px none solid#70C4DE;padding-bottom: 2px!important; width:1314px; height:24px" >
+	<div width="99.5%" style="background-image:url('https://e.top4top.net/p_103166nnu1.gif');color: #7003300;border-radius: 5px 5px 5px5px;border-bottom: 2px solid #70C4DE;border-top: 2px none solid#70C4DE;padding-bottom: 2px!important; width:1314px; height:24px" >
 	<font style="background-color: #fff;border-radius: 15px 15px 15px 15px;font-family: 'jazeera',FontAwesome;padding: 2px 8px 2px 10px;margin: 7px 10px 7px 10px;" color="#00527A" >مـــنورين شات لوجين </font></div></div><center>`).insertBefore('#d2');
 $(".label-primary").css("border-radius","31px 30px 30px 31px")
 $('.nav-tabs').addClass('fl').css('width','121%');
