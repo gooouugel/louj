@@ -8,6 +8,11 @@ $( "a.label.label-primary.fl > img.fl" ).replaceWith('<img src="" class="fl" sty
 setInterval(function(){$(".u-pic").css("border-radius","15px");$(".ustat").css("border-radius","5px").css("width","10px").css("height","10px")},1000);
 $(`<link rel="stylesheet" type="text/css" href="//www.fontstatic.com/f=jazeera-light,jazeera">
 <link rel="stylesheet" href="">
+$('.hand.nosel.fl.uzr.border').css({'margin': '1px 0',borderRight: '2px solid 4fd6e1',borderLeft: '2px solid 4fd6e1',borderTop: '1px solid #4F565E',borderBottom: '1px solid #4F565E',paddingTop: '2px',borderRadius: '10px'});
+var nopm=!0,nonot=!0;
+$('.uzr.fl.corner.borderg').css({'margin': '0px 0',borderRight: '2px solid 4fd6e1',borderLeft: '2px solid 4fd6e1',borderTop: '.40px solid FF458F',borderBottom: '.50px solid #c1202045',paddingTop: '2px',borderRadius: '10px'});  
+$('.room.borderg.hand.nosel.fl').css({'margin': '1px 0',borderRight: '2px solid FF458F',borderLeft: '2px solid 4fd6e1',borderTop: '1px solid FF458F',borderBottom: '1px solid 4fd6e1',paddingTop: '2px',borderRadius: '10px'});$(".corner.fa.fa-user.label.label-primary.fr.uc").css("border-radius","15px")
+$(".fr.co").css("border-radius","15px")
 <style>
 #as {font-family: 'jazeera-light',FontAwesome;margin-bottom: 2px; color: #00527A; border-radius: 5px 5px 5px 5px;
     text-shadow: 2px 2px 2px rgb(138, 138, 138) , 0px 2px 10px #00527A!important;
