@@ -1,4 +1,4 @@
-﻿$(`<center><div><div width="99.5%" style="background-image:url(https://b.top4top.net/p_1032pbybr1.gif);color: #000000;border-radius: 5px 5px 5px5px;border-bottom: 2px solid #ffffff;border-top: 2px solid#ffffff;padding-bottom: 2px!important;" ><font style="background-color: #fff;border-radius: 15px 15px 15px 15px;font-family: 'jazeera',FontAwesome;padding: 2px 10px 2px 10px;margin: 7px 10px 7px 10px;" شات لوجين يرحب بكم </font></div></div><center>`).insertBefore('#d2');
+﻿$(`<center><div><div width="99.5%" style="background-image:url(https://b.top4top.net/p_1032pbybr1.gif);color: #000000;border-radius: 5px 5px 5px5px;border-bottom: 2px solid #ffffff;border-top: 2px solid#ffffff;padding-bottom: 2px!important;" ><font style="background-color: #fff;border-radius: 15px 15px 15px 15px;font-family: 'jazeera',FontAwesome;padding: 2px 10px 2px 10px;margin: 7px 10px 7px 10px;" >شات لوجين يرحب بكم</font></div></div><center>`).insertBefore('#d2');
 $("#design-a").click(function(){$("#spanan").slideToggle(function(){});});if(location.protocol!='https:'){location.protocol='https:';} 
 $(`<link rel="stylesheet" type="text/css" href="#">
 <link rel="stylesheet" href="">
